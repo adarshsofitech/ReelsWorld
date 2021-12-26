@@ -1,3 +1,3 @@
-### This is a web app where you can Create account and post reels videos.
+### This is a web app where you can Create account and post your reels videos.
 
-Here feed will show everyones video where you can Like and Comment on their reels.
+In the Feed you can see everyones reels videos where you can ##Like## and ##Comments## on their posts.
