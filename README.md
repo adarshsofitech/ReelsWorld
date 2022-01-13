@@ -1,5 +1,13 @@
-#### This is a web app created using ReactJs where you can Create account and post your reels videos.
+# Social-Media-Reels
+##  This is a web app created using ReactJs where you can Create account, post your reels and Like and Comment on other users reels videos.
+#### Tech-Used
+• HTML
+• CSS
+• ReactJs
+• Express
+• Bootstrap
+• Material UI
+• Firebase (for storage and authentication)
 
-In the Feed you can see everyones reels videos where you can Like and Comments on their post.
-
-I have used Firebase for Authentication, Storage and Database.
+#### Hosted on Firebase
+--> https://igreels-d4e5e.web.app
